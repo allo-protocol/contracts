@@ -1,3 +1,7 @@
+*Deprecation Warning*: Allo v1 has been deprecated.  Checkout Allo V2 [here](https://github.com/allo-protocol/allo-v2/).
+
+-----------------------
+
 # Allo Procotol Contracts
 
 This project is built using [hardhat](https://hardhat.org).
